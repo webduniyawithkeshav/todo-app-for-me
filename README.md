@@ -47,7 +47,7 @@ npm install
 
 2. Start the server:
 ```bash
-npm start
+node server.js
 ```
 
 3. Open your browser and navigate to:
