@@ -52,7 +52,8 @@ npm start
 
 3. Open your browser and navigate to:
 ```
-http://localhost:3000
+deployed on ec2 instance of aws
+http://13.221.208.243:3000/
 ```
 
 ## API Endpoints
