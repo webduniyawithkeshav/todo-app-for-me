@@ -70,7 +70,7 @@ http://13.221.208.243:3000/
 This application can be easily deployed on AWS using EC2:
 
 
-### Option 2: AWS EC2
+### using AWS EC2
 
 1. **Launch an EC2 instance** (Ubuntu recommended)
 2. **SSH into your instance:**
